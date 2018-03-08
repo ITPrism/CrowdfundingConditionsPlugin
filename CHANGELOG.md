@@ -1,0 +1,2 @@
+Plugin - CrowdfundingPayment - Conditions Changelog
+====================================================
